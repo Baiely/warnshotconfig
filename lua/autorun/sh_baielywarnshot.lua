@@ -1,6 +1,6 @@
 BaielywarnshotConfig = {}
 
-BaielywarnshotConfig.Time = 7 -- Time until the warning message disappears
+BaielywarnshotConfig.Time = 7 -- Time until the warning message disappears ( in seconds )
 
 BaielywarnshotConfig.Key = KEY_G -- Default Key: https://wiki.facepunch.com/gmod/Enums/KEY
 
