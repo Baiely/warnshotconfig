@@ -11,6 +11,6 @@ BaielywarnshotConfig.Lang = {
 
 BaielywarnshotConfig.Colors = {
     Primary = Color(45, 45, 45), --Default: Color(45,45,45)
-    Accent = Color(220, 57, 57), --Default: color(22,57,57)
-    Icon = Color(45, 45, 45) --Default: Color(255,255,255) (Only change when neccesary!!!!)
+    Accent = Color(220, 57, 57), --Default: color(220,57,57)
+    Icon = Color(45, 45, 45) --Default: Color(45,45,45)
 }
