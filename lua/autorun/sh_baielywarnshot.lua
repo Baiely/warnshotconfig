@@ -5,8 +5,8 @@ BaielywarnshotConfig.Time = 7 -- Time until the warning message disappears ( in 
 BaielywarnshotConfig.Key = KEY_G -- Enums: https://wiki.facepunch.com/gmod/Enums/KEY  Default: KEY_G
 
 BaielywarnshotConfig.Lang = {
-    victimtxt = "You were fired a warning shot!", --Notification text for the victim Default: "You were fired a warning shot!",
-    attackertxt = "The person noticed your warning shot!", --Notification text for the attacker Default: "The person noticed your warning shot!",
+    victimtxt = "You were fired a warning shot.", --Notification text for the victim Default: "You were fired a warning shot!",
+    attackertxt = "The person noticed your warning shot.", --Notification text for the attacker Default: "The person noticed your warning shot!",
 }
 
 BaielywarnshotConfig.Colors = {
